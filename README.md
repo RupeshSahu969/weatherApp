@@ -1,5 +1,5 @@
-1  npx create-react-app new-app
-2 npm install axios
-3 npm install styled-components
-4 npm install typescript
-5 npm i && npm start
+1  npx create-react-app new-app <br/>
+2 npm install axios <br/>
+3 npm install styled-components <br/>
+4 npm install typescript <br/>
+5 npm i && npm start <br/>
