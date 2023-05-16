@@ -11,7 +11,7 @@ const WeatherCart = ({ data }) => {
     minute: "2-digit",
     second: "2-digit",
     hour24: false,
-  });
+  })
 
   //sunset
   const sunsetTime = new Date(sunset * 1000).toLocaleTimeString([], {
