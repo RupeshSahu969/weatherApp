@@ -125,7 +125,7 @@ const WeatherCart = ({ data }) => {
           </div>
           <div>
             <span>{sunsetTime}</span>{" "}
-          </div>{" "}
+          </div>
         </Visibilit1>{" "}
       </VisibilityWrapper>
     </>
