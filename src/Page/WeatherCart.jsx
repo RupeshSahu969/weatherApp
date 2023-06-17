@@ -29,6 +29,8 @@ const WeatherCart = ({ data }) => {
     hour24: false,
   });
 
+
+  
   return (
     <>
       <ContainerWraper>
