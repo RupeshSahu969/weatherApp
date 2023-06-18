@@ -30,7 +30,7 @@ const WeatherCart = ({ data }) => {
   });
 
 
-  
+
   return (
     <>
       <ContainerWraper>
@@ -73,7 +73,6 @@ const WeatherCart = ({ data }) => {
           </div>{" "}
         </Div1>{" "}
       </WindWrapper>
-
       <PressureWrapper>
         <Pressure>
           <div>
@@ -178,6 +177,7 @@ const WindWrapper = styled.div`
 const PressureWrapper = styled.div`
   display: flex;
   width: 90%;
+  
   margin: auto;
   justify-content: space-between;
   font-size: 20px;
