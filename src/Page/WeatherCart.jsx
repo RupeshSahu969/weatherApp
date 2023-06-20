@@ -177,7 +177,6 @@ const WindWrapper = styled.div`
 const PressureWrapper = styled.div`
   display: flex;
   width: 90%;
-  
   margin: auto;
   justify-content: space-between;
   font-size: 20px;
